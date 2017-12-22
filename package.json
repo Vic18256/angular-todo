@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "Angular app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vic81256/angular-todo.git"
+  },
+  "author": "vic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vic81256/angular-todo/issues"
+  },
+  "homepage": "https://github.com/Vic81256/angular-todo#readme"
+}
