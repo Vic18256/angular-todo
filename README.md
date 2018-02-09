@@ -2,7 +2,7 @@
 
 ## Overview
 
-### What is thsi app for?
+### What is this app for?
 
 This is a Todo app. It helps users to keep track of any things that thye have todo.
 
@@ -54,7 +54,6 @@ This app uses JSON Web Tokens to authenticate users and keep them logged in. All
     
     ```
     npm install
-
     bower install
     ```
   4. After those dependencies have been installed you'll need to make sure that you have **http-server** installed. You can install this by running tje following: ```npm install -g http-server # this also may require sudo on Mac/Linux```
